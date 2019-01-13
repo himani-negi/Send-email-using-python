@@ -1,0 +1,11 @@
+
+This code was made using Python 3.6.7
+It doesnt work for Python 2 versions
+For using it in python 2, headers definitions hae to be changed as the suntax difers
+
+For login here, I have used -- login = "alexis.assisstant@gmail.com"
+Substitute alexis.assisstant@gmail.com with your mail
+Any google mail can be used
+
+To run the code in ubuntu:
+python3 Meeting_invite.py

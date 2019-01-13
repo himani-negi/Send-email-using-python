@@ -1,0 +1,3 @@
+
+Hello,
+This attachment was sent as using send_mail.py

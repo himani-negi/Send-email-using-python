@@ -1,0 +1,9 @@
+
+This code was made using Python 3.6.7
+
+For login here, I have used -- login = "alexis.assisstant@gmail.com"
+Substitute alexis.assisstant@gmail.com with your mail
+Any google mail can be used
+
+To run the code in ubuntu:
+python3 send_mail.py

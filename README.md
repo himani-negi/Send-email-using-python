@@ -6,3 +6,4 @@ Two different codes are:
 2. To send an email with attachment
 
 These two codes were used for adding functionality in virtual assisstant
+They were made using Python 3.6.7
